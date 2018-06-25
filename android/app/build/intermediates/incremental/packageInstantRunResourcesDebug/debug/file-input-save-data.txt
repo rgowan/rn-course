@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 13 11:58:42 BST 2018
+0.baseType=DIRECTORY
+0.base=/Users/ranegowan/Desktop/rn-course/android/app/build/intermediates/assets/debug
+0.path=fonts/Ionicons.ttf
+0.set=ASSET
+count=1
